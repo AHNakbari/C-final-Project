@@ -1,3 +1,3 @@
-E:/programing/project/cmake-build-debug/CMakeFiles/project.dir
-E:/programing/project/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/programing/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/programing/C/mabani barname nevisi/final_project/project-splenta22/cmake-build-debug/CMakeFiles/project.dir
+E:/programing/C/mabani barname nevisi/final_project/project-splenta22/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programing/C/mabani barname nevisi/final_project/project-splenta22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
